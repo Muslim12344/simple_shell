@@ -1,2 +1,2 @@
-## Description
-* A simple UNIX command interpreter.
+ A simple UNIX command interpreter.
+ It's tohard to going alone
